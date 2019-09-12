@@ -2,4 +2,4 @@ Resources:
   S3:
     Type: "AWS::S3::Bucket"
     Properties:
-      BucketName: romeo-val-1
+      BucketName: romeo-val-2
